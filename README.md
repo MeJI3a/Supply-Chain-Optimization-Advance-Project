@@ -44,25 +44,9 @@ Below is an overview of the project folder structure and the role of each file:
    - **Jupyter Notebooks:**
      - **`Exploratory data analysis (EDA).ipynb`**: Detailed exploratory analysis of cleaned data.
 
-   - **Static Visualizations:**
-     - **`image1.png` to `image14.png`**: PNG visualizations covering profit distributions, late delivery risks, order frequency, and more.
-
-   - **Interactive Dashboards (Local Only):**
-     - **`geo_analysis_map.html`**: Geographic analysis of delivery risks and profits.
-     - **`supply_chain_dashboard.html`**: Comprehensive dashboard with key supply chain metrics.
-       > **Note:** These dashboards are designed for local viewing and are not hosted. Open the `.html` files in your browser to explore the interactive dashboards.
-
-
 ---
 
-### 4. **Power BI Dashboard**
-   This section will include an interactive Power BI dashboard for presenting key metrics and insights. The dashboard aims to enhance stakeholder communication and decision-making by showcasing supply chain metrics in an intuitive, visual format.
-
-   **Note:** The Power BI dashboard is under development and will be completed as part of future portfolio enhancements.
-
----
-
-### 5. **Python Insights and Scripts**
+### 4. **Python Insights and Scripts**
    Python scripts for advanced analysis and visualization:
    - **`late_delivery_by_region.html`**: Visualization highlighting regions with high delivery risks.
    - **`profit_distribution.html`**: Profit distributions visualized with histogram and summary statistics.
@@ -70,7 +54,7 @@ Below is an overview of the project folder structure and the role of each file:
 
 ---
 
-### 6. **Key Deliverables**
+### 5. **Key Deliverables**
    - Insights into shipping delays, delivery risks, and profit metrics.
    - Static and interactive dashboards for deeper exploration of trends and inefficiencies.
    - SQL scripts to manage and query the relational database effectively.
