@@ -1,4 +1,4 @@
-#  Project 8: Supply Chain Optimization Project
+#  Supply Chain Optimization Project
 
 ## Overview
 This project focuses on analyzing supply chain data to identify bottlenecks and propose optimizations to reduce costs and improve efficiency. The analysis incorporates data cleaning, SQL queries, Python-based data analysis, and visualization techniques to generate actionable insights. 
