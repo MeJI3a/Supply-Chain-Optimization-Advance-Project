@@ -15,9 +15,6 @@ Below is an overview of the project folder structure and the role of each file:
    - **Scripts for Cleaning:**
      - **`Cleaning.ipynb`**: Jupyter notebook containing data cleaning processes using pandas in Python.
 
-   - **Data Validation Outputs:**
-     - **`correlation_matrix.png`**: Heatmap of correlations among numeric features.
-
 ---
 
 ### 2. **SQL Work**
@@ -31,30 +28,17 @@ Below is an overview of the project folder structure and the role of each file:
    - **Data Updates:**
      - **`UpdateData.sql`**: SQL script for updating or enriching data within the database.
 
-   - **Query Results:**
-     - **`avg_profit_by_segment.html`**: Visualization of average profit per customer segment generated from SQL queries.
-     - **`late_delivery_by_region.html`**: SQL-based insights on regions with the highest late delivery risks.
-     - **`shipping_delays.html`**: Analysis of shipping delays across the supply chain.
-
 ---
 
 ### 3. **Data Analysis and Visualization**
    The project utilized Python and visualization libraries (Matplotlib, Seaborn, Plotly, and Dash) to analyze and visualize the data.
 
    - **Jupyter Notebooks:**
-     - **`Exploratory data analysis (EDA).ipynb`**: Detailed exploratory analysis of cleaned data.
+     - **`Data Extraction and Optimization Analysis.ipynb`**: Detailed exploratory analysis of cleaned data.
 
 ---
 
-### 4. **Python Insights and Scripts**
-   Python scripts for advanced analysis and visualization:
-   - **`late_delivery_by_region.html`**: Visualization highlighting regions with high delivery risks.
-   - **`profit_distribution.html`**: Profit distributions visualized with histogram and summary statistics.
-   - **`orders_by_country.html`**: Interactive visualization of order counts by country.
-
----
-
-### 5. **Key Deliverables**
+### 4. **Key Deliverables**
    - Insights into shipping delays, delivery risks, and profit metrics.
    - Static and interactive dashboards for deeper exploration of trends and inefficiencies.
    - SQL scripts to manage and query the relational database effectively.
