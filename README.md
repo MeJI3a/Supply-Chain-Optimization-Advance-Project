@@ -31,7 +31,7 @@ Below is an overview of the project folder structure and the role of each file:
 ---
 
 ### 3. **Data Analysis and Visualization**
-   The project utilized Python and visualization libraries (Matplotlib, Seaborn, Plotly, and Dash) to analyze and visualize the data.
+   The project utilized Python and visualization libraries (Matplotlib, Seaborn) to analyze and visualize the data.
 
    - **Jupyter Notebooks:**
      - **`Data Extraction and Optimization Analysis.ipynb`**: Detailed exploratory analysis of cleaned data.
